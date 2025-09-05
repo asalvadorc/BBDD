@@ -4,7 +4,13 @@ theme:
   name: readthedocs
   logo: assets/logocaminas.png
 nav:
-  - Tema 1-Introducció: https://asalvadorc.github.io/BBDD_Tema1
-  - Tema 2-Model Entitat-Relació: https://asalvadorc.github.io/BBDD_Tema2
-  - Tema 3-Model Relacional: https://asalvadorc.github.io/BBDD_Tema3
+  - UD 1-Introducció: https://asalvadorc.github.io/BBDD_Tema1
+  - UD 2-Model Entitat-Relació: https://asalvadorc.github.io/BBDD_Tema2
+  - UD 2-Model Relacional: https://asalvadorc.github.io/BBDD_Tema3M
+  - UD 2-Normalización: https://asalvadorc.github.io/BBDD_Tema4
+  - UD 3-PostgreSQL- DQL: https://asalvadorc.github.io/BBDD_POSTGRES_DQL
+  - UD 4-PostgreSQL- DDL: https://asalvadorc.github.io/BBDD_PostgreSQL_DDL
+  - UD 5-PostgreSQL- DML: https://asalvadorc.github.io/BBDD_PostgreSQL_DML
+  - UD 6-PostgrePL/SQL: https://asalvadorc.github.io/BBDD_PostgrePLSQL
+  - UD 7-BD NoSQL: https://asalvadorc.github.io/BBDD_NoSQL
 
